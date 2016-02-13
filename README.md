@@ -1,2 +1,2 @@
 # hello-world
-Just testing after reading teh BBC news article
+Just testing after reading the BBC news article
